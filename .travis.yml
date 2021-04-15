@@ -1,5 +1,6 @@
 #Got a new script! Snagged this bad boy from
 #https://github.com/pestrada/android-tdd-playground/blob/master/.travis.yml
+#little change2
 language: android
 jdk: oraclejdk8
 sudo: false
